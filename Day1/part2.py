@@ -1,6 +1,6 @@
 import re
 
-data = open('AdventOfCode23/Day1/input.txt', 'r').read().split('\n')
+data = open('Day1/input.txt', 'r').read().split('\n')
 
 vals = {
     "1":"1",
